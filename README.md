@@ -976,7 +976,7 @@ Currently, the sole maintainer is [@ljharb](https://github.com/ljharb) - more ma
 
 See [LICENSE.md](./LICENSE.md).
 
-## Copyright notice
+## Copyright notice 
 
 Copyright [OpenJS Foundation](https://openjsf.org) and `nvm` contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Node.js is a trademark of Joyent, Inc. and is used with its permission.  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
